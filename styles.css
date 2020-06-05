@@ -1,12 +1,13 @@
   
 body{
-    font-family: 'Nunito', sans-serif;
+    font-family: Times;
     color: #ff2800;
     letter-spacing: 1px;
 }
 
 h1, h2{
-    font-weight: normal;
+    font-weight: bold;
+
 }
 h2{
     text-align: center;
